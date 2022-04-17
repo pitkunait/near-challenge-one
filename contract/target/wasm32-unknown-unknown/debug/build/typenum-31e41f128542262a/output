@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vash/Projects/Crypto/near-challenges/one/contract/target/wasm32-unknown-unknown/debug/build/typenum-31e41f128542262a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vash/Projects/Crypto/near-challenges/one/contract/target/wasm32-unknown-unknown/debug/build/typenum-31e41f128542262a/out/op.rs
